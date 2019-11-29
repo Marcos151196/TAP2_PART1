@@ -1,0 +1,6 @@
+localoutputdirectory = "/home/marcos/TAP2_PART1/"
+dfsoutputdirectory = "/user/marcos/"
+dfsbigramfiles = "/user/marcos/googlebooks-spa-all-2gram-20120701-"
+dfstask1input = "/user/marcos/googlebooks-spa-all-1gram-20120701-a"
+task1binary = "/home/marcos/TAP2_PART1/Task1/task1"
+task2binary = "/home/marcos/TAP2_PART1/Task2/task2"
